@@ -1,5 +1,6 @@
 {
   "imports": {
+    "graphql": "npm:graphql@16.6.0",
     "graphql-yoga": "https://cdn.skypack.dev/graphql-yoga@3.1.0?dts"
   }
 }
